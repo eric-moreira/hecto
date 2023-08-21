@@ -1,0 +1,1 @@
+/home/eric/rust/text_editor/target/debug/text_editor: /home/eric/rust/text_editor/src/document.rs /home/eric/rust/text_editor/src/editor.rs /home/eric/rust/text_editor/src/main.rs /home/eric/rust/text_editor/src/row.rs /home/eric/rust/text_editor/src/terminal.rs
